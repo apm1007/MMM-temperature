@@ -31,6 +31,7 @@ The entry in `config.js` can include the following options:
 ## Special Thanks
 - [Michael Teeuw](https://github.com/MichMich) for creating the awesome [MagicMirror2](https://github.com/MichMich/MagicMirror/tree/develop) project that made this module possible.
 
+<3 https://www.one-4-u.de
 
 The MIT License (MIT)
 =====================
@@ -50,5 +51,3 @@ The above copyright notice and this permission notice shall be
 included in all copies or substantial portions of the Software.
 
 **The software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.**
-
-<3 https://www.one-4-u.de
