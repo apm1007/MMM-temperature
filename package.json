@@ -1,0 +1,28 @@
+{
+	"name": "Temperaturmesser",
+	"version": "1.0.0",
+	"description": "",
+	"repository": {
+	    "type": "git",
+	    "url": "git+https://github.com/bAstimc/MMM-temperature"
+	},
+	"keywords": [
+		"magic mirror",
+	    "smart mirror",
+	    "temperature",
+	    "DS18B20",
+	    "sensor",
+	    "module"
+	],
+	"author": "Sebastian Wiedling",
+	"license": "MIT",
+  	"bugs": {
+    	"url": "https://github.com/bAstimc/MMM-temperature/issues"
+	},
+	"homepage": {
+    	"url": "https://github.com/bAstimc/MMM-temperature#readme"
+	},
+	"depencies": {
+		"exec-php": "latest"
+	}
+}
